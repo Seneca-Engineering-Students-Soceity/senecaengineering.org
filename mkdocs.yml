@@ -1,0 +1,13 @@
+site_name: SESS
+site_description: Welcome to Official SESS Website
+site_author: SESS 
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Blog:
+    - First Post: blog/first-post.md
+
+theme:
+  name: material 
+
