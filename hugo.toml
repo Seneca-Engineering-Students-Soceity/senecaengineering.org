@@ -1,4 +1,6 @@
-baseURL = "https://senecaengineering.org/"
+<<<<<<< HEAD
+baseURL ="https://github.com/Seneca-Engineering-Students-Soceity/senecaengineering.org/"
+>>>>>>> 7a089ae (Domain2)
 publishDir = "docs"
 relativeURLs = false
 canonifyURLs = true
